@@ -4,7 +4,7 @@
  */
  {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "v1-aura-reader-a9635e0f-d6cd-46b9-8564-f35eb47171d5",
+	"name": "rssreader",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-04-24",
 	"assets": {
